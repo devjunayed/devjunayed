@@ -58,39 +58,26 @@
 <!-- Portfolio -->
 <h1 align="center"> See my projects </h1>
  
- <table border="none">
- 
- <!-- Project 01 -->
+ <table>
   <tr>
+     <td width="33%">
+      <a href="https://devjunayed.github.io/react-color-greetings">
+       <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
+       <p>#1 React || Color Greetings <a href="https://github.com/devjunayed/react-color-greetings">Source code </a></p>
+      </a>
+    </td>
     <td width="33%">
-         <a href="https://devjunayed.github.io/react-color-greetings">
-          <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
-          <p>#1 React || Color Greetings <a href="https://github.com/devjunayed/react-color-greetings">Source code </a></p>
-         </a>
+      <a href="https://devjunayed.github.io/react-color-greetings">
+       <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
+       <p>#1 React || Color Greetings <a href="https://github.com/devjunayed/react-color-greetings">Source code </a></p>
+      </a>
     </td>
-   
-       <td width="33%">
-         <a href="https://devjunayed.github.io/react-color-greetings">
-          <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
-          <p>#1 React || Color Greetings <a href="https://github.com/devjunayed/react-color-greetings">Source code </a></p>
-         </a>
-    </td>
-   
-   
-   <!-- Project 02 -->
-   
-   <!--
     <td width="33%">
-      <a target="_blank" href="https://devjunayed.github.io/react-top-netflix">
-          <img align="center" src="https://github.com/devjunayed/devjunayed/blob/main/top-5-netflix.PNG" width="100%" />
-          <p>#2 React || Top 5 netflix <a target="_blank" href="https://github.com/devjunayed/react-top-netflix">Source code </a></p>
-       </a>
+     <a href="https://devjunayed.github.io/react-color-greetings">
+      <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
+      <p>#1 React || Color Greetings <a href="https://github.com/devjunayed/react-color-greetings">Source code </a></p>
+     </a>
     </td>
- -->
-   
-   
-   <!-- Project 03 -->
-    
   </tr>
  </table>
 
