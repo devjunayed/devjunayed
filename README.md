@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjunayed" alt="devjunayed" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/devjunayed" target="blank"><img src="https://img.shields.io/twitter/follow/devjunayed?logo=twitter&style=for-the-badge" alt="devjunayed" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React, Node, Express, Mongoose**
 
@@ -15,18 +15,30 @@
 
 - 📫 How to reach me **devjunayed@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devjunayed" height="30" width="40" /></a>
-<a href="https://twitter.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://dev.to/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devjunayed" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devjunayed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://codesandbox.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="devjunayed" height="30" width="40" /></a>
 <a href="https://fb.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devjunayed" height="30" width="40" /></a>
 <a href="https://instagram.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://dribbble.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://hashnode.com/@devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devjunayed" height="30" width="40" /></a>
+<a href="https://medium.com/@devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devjunayed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devjunayed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devjunayed" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devjunayed" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="devjunayed" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/devjunayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="devjunayed" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/x36djTpch2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/x36djTpch2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
