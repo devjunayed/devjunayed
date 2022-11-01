@@ -57,9 +57,27 @@
 
 <!-- Portfolio -->
 <h1 align="center"> See my projects </h1>
+ 
+ <table border="none">
+  <tr>
+    <td>
+         <a  href="https://devjunayed.github.io/react-color-greetings/">
+          <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
+          <p>#1 React || Color Greetings <a href="">Source code </a></p>
+         </a>
+    </td>
+    <td>
+      <a href="https://devjunayed.github.io/react-top-netflix/">
+          <img align="center" src="https://github.com/devjunayed/devjunayed/blob/main/top-5-netflix.PNG" width="100%" />
+          <p>#2 React || Top 5 netflix <a href="">Source code </a></p>
+       </a>
+    </td>
+     <td>
+      <a href="https://devjunayed.github.io/react-color-greetings/">
+          <img align="center" src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
+          <p>#1 React || Color Greetings <a href="">Source code </a></p>
+       </a>
+    </td>
+  </tr>
+ </table>
 
-<div>
-  <a href="">
-    <img src="" width="30%" />
-  </a>
-</div>
