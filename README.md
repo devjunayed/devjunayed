@@ -1,3 +1,6 @@
+<img src="https://github.com/devjunayed/devjunayed/blob/main/banner.gif" alt="" width="100%"/>
+
+
 <h1 align="center">Hi 👋, I'm Md. Junayed (devjunayed)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
