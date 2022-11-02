@@ -95,9 +95,9 @@
       </a>
     </td>
     <td width="33%">
-     <a href="https://devjunayed.github.io/allrounder/">
-      <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/allrounder.PNG" width="100%" />
-      <p>#3 PSD || Allrounder <a href="https://github.com/devjunayed/allrounder">Source code </a></p>
+     <a href="https://devjunayed.github.io/restaurent/">
+      <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/restaurent.PNG" width="100%" />
+      <p>#6 PSD || Restaurent <a href="https://github.com/devjunayed/restaurent">Source code </a></p>
      </a>
     </td>
   </tr>
