@@ -73,9 +73,9 @@
       </a>
     </td>
     <td width="33%">
-     <a href="https://devjunayed.github.io/react-color-greetings">
-      <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/color-greets.PNG" width="100%" />
-      <p>#1 React || Color Greetings <a href="https://github.com/devjunayed/react-color-greetings">Source code </a></p>
+     <a href="https://devjunayed.github.io/allrounder/">
+      <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/allrounder.PNG" width="100%" />
+      <p>#3 PSD || Allrounder <a href="https://github.com/devjunayed/allrounder">Source code </a></p>
      </a>
     </td>
   </tr>
