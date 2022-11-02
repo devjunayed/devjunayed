@@ -115,7 +115,7 @@
 <h1 align="center"> See my projects </h1>
 
 
-<table>
+<table align="center">
  <tr>
    <td>
      <img width="40px" height="40px" align="center" src="https://img.icons8.com/color-glass/344/everything-game.png" alt="html5" alt=""/>
