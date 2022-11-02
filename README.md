@@ -119,12 +119,12 @@
  <tr>
    <td>
      <img width="40px" height="40px" align="center" src="https://img.icons8.com/color-glass/344/everything-game.png" alt="html5" alt=""/>
-     <p align="center">ALL 20 </p>
+     <p align="center">ALL 6 </p>
   </td>
     
    <td>
      <img width="40px" height="40px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt=""/>
-     <p align="center">HTML 3</p>
+     <p align="center">HTML 2</p>
   </td>
   
   
@@ -135,7 +135,7 @@
   
   <td>
      <img width="40px" height="40px" align="center" src="https://img.icons8.com/color/344/javascript--v1.png" alt=""/>
-     <p align="center">JS 2</p>
+     <p align="center">JS 0</p>
   </td>
    
   <td>
