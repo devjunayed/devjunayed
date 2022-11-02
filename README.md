@@ -57,6 +57,8 @@
 
 <!-- Portfolio -->
 <h1 align="center"> See my projects </h1>
+
+<p><img src="" alt=""/>HTML 0 <img src="" alt=""/> PSD 0 <img src="" alt=""/> JS 0 <img src="" alt=""/> React 0 </p>
  
  <table>
   <tr>
