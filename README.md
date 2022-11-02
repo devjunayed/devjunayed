@@ -79,5 +79,27 @@
      </a>
     </td>
   </tr>
+ 
+ 
+  <tr>
+     <td width="33%">
+      <a href=https://devjunayed.github.io/portfolio/#">
+       <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/portfolio.PNG" width="100%" />
+       <p>#4 HTML || My Portfolio <a href="https://github.com/devjunayed/portfolio">Source code </a></p>
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://devjunayed.github.io/albpro/">
+       <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/albpro.PNG" width="100%" />
+       <p>#5 HTML || ALBPRO <a href="https://github.com/devjunayed/albpro">Source code </a></p>
+      </a>
+    </td>
+    <td width="33%">
+     <a href="https://devjunayed.github.io/allrounder/">
+      <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/allrounder.PNG" width="100%" />
+      <p>#3 PSD || Allrounder <a href="https://github.com/devjunayed/allrounder">Source code </a></p>
+     </a>
+    </td>
+  </tr>
  </table>
 
