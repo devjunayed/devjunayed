@@ -2,6 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Md. Junayed (devjunayed)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Web+Developer;3%2B+years+of+coding+experience;Always+learning+new+things;Love+to+learn">
+</p>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjunayed&label=Profile%20views&color=0e75b6&style=flat" alt="devjunayed" /> </p>
