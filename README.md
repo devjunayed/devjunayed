@@ -199,5 +199,25 @@
      </a>
     </td>
   </tr>
+  <tr>
+     <td width="33%">
+      <a href=https://devjunayed.github.io/js-temperature-calculator/#">
+       <img align="center"  src="https://github.com/mdjunayedcse/img/blob/main/js-temparature-calculator.PNG?raw=true" width="100%" />
+       <p>#7 JS || Temperature Calculator <a href="https://github.com/devjunayed/js-temperature-calculator">Source code </a></p>
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://devjunayed.github.io/albpro/">
+       <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/albpro.PNG" width="100%" />
+       <p>#8 HTML || ALBPRO <a href="https://github.com/devjunayed/albpro">Source code </a></p>
+      </a>
+    </td>
+    <td width="33%">
+     <a href="https://devjunayed.github.io/restaurent/">
+      <img align="center"  src="https://github.com/devjunayed/devjunayed/blob/main/restaurent.PNG" width="100%" />
+      <p>#9 PSD || Restaurent <a href="https://github.com/devjunayed/restaurent">Source code </a></p>
+     </a>
+    </td>
+  </tr>
  </table>
 
