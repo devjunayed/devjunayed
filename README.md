@@ -202,7 +202,7 @@
   <tr>
      <td width="33%">
       <a href=https://devjunayed.github.io/js-temperature-calculator/#">
-       <img align="center"  src="https://github.com/mdjunayedcse/img/blob/main/js-temparature-calculator.PNG?raw=true" width="100%" />
+       <img align="center"  src="https://github.com/mdjunayedcse/img/blob/main/js/js-temparature-calculator.PNG" width="100%" />
        <p>#7 JS || Temperature Calculator <a href="https://github.com/devjunayed/js-temperature-calculator">Source code </a></p>
       </a>
     </td>
