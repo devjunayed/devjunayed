@@ -109,8 +109,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjunayed&show_icons=true&locale=en&layout=compact" alt="devjunayed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjunayed&show_icons=true&locale=en" alt="devjunayed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjunayed&" alt="devjunayed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjunayed" alt="devjunayed" /></p>
 
 
 
