@@ -111,7 +111,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjunayed&show_icons=true&locale=en" alt="devjunayed" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devjunayed)](https://git.io/streak-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjunayed" alt="devjunayed" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjunayed" alt="devjunayed" /></p>-->
 
 
 
