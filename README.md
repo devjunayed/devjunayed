@@ -111,9 +111,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjunayed&show_icons=true&locale=en" alt="devjunayed" /></p>
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={devjunayed}&theme={vue}" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devjunayed)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=dark)
+
+
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjunayed" alt="devjunayed" /></p>-->
 
 
