@@ -114,8 +114,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=dark)
 
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjunayed" alt="devjunayed" /></p>-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devjunayed)](https://git.io/streak-stats)
 
 
 
