@@ -119,7 +119,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devjunayed&theme=dark)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=devjunayed&theme=dark
 
 
 <!-- Portfolio -->
