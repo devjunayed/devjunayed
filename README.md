@@ -123,6 +123,8 @@
 
 
 <!-- Portfolio -->
+
+<!--
 <h1 align="center"> See my projects </h1>
 
 
@@ -154,12 +156,11 @@
      <p align="center">React 2</p>
   </td>
   
-  <!--
+
   <td>
      <img width="40px" height="40px" align="center" src="" alt="" alt=""/>
      <p align="center"></p>
-  </td>
--->
+
  </tr>
 </table>
  
@@ -228,7 +229,7 @@
     </td>
   </tr>
  </table>
-
+-->
 
 
 <!-- snake contribution -->
