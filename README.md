@@ -21,7 +21,9 @@
 
 - 📫 How to reach me **devjunayed@gmail.com**
 
+<div style="margin: 0 auto">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devjunayed&theme=dark&hide_border=false)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
