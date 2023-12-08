@@ -21,9 +21,7 @@
 
 - 📫 How to reach me **devjunayed@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=devjunayed&theme=dark&hide_border=false)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -119,7 +117,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=devjunayed&theme=dark&hide_border=false)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devjunayed&limit=20&theme=flat&combine_all_yearly_contributions=true)
 
