@@ -11,7 +11,6 @@
 <!-- A sub heading -->
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-
 <!-- Streak -->
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -33,8 +32,6 @@
 - 👨‍💻 All of my projects are available at [https://devjunayed.com](https://devjunayed.com)
 
 - 📫 How to reach me **devjunayed@gmail.com**
-
-
 
 <!-- connect with me -->
 <h3 align="left">Connect with me:</h3>
@@ -106,25 +103,26 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
- </a>
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
- </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
- </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
- </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
  <!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
  </a> -->
  <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
  </a>  -->
-</p> 
+</p>
 
  <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> -->
  <!-- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -141,7 +139,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
  </a>  -->
 
-
  <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
  </a>  -->
@@ -154,19 +151,16 @@
  </a>  -->
 <br />
 
- 
-
 <p width="100%"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjunayed&show_icons=true&locale=en&theme=dark" alt="devjunayed" /></p>
 
 <p width="100%">&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=devjunayed&show_icons=true&locale=en&theme=dark" alt="devjunayed" /></p>
 
-<div style="text-align: center;">
-    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=react" alt="devjunayed profile details" />
-    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react" alt="devjunayed repos per language" />
-    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" />
-    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" />
-    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" />
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=react" alt="devjunayed profile details" />
+
+<div>
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react" alt="devjunayed repos per language" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" />
 </div>
 
-
-
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" />
+  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" />
