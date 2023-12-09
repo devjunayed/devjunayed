@@ -177,8 +177,6 @@
 
 
 
-<div style="display: flex; justify-content: space-between;">
-    <img align="center" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=transparent" alt="devjunayed" />
-    <img align="center" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8" alt="devjunayed" />
-</div>
+![devjunayed profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=transparent)
+![devjunayed productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8)
 
