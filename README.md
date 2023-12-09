@@ -163,9 +163,6 @@
 </div>
 
 <div>
-<a><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" /></a>
-<a>  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" /></a>
+<a><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" /></a>
+<a>  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" /></a>
 </div>
-
-  
-
