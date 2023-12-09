@@ -176,7 +176,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8) 
 
 
-
-![devjunayed profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=transparent)
-![devjunayed productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8)
-
+<div>
+<p width="60%">&nbsp;<img align="center" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=dark" alt="devjunayed" /></p>
+<p width="40%">&nbsp;<img align="center" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=dark" alt="devjunayed" /></p>
+</div>
