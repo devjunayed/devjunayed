@@ -33,7 +33,7 @@
 
 <!-- some info -->
 ## 👀 Current overview
-- 🌱 I’m currently working with **React, Node, Express, Mongoose**
+- 🌱 I’m currently working with **React, Node, Express, Mongodb**
 
 - 👨‍💻 All of my projects are available at [https://devjunayed.com](https://devjunayed.com)
 
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,tailwind" />
   </a>
 </p
 
