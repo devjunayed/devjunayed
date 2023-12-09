@@ -162,10 +162,10 @@
   <a> <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" /></a>
 </div>
 
-<p>
-  <img align="left" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react" alt="devjunayed repos per language" />
-  <img width="49%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" />
-</p>
+<div>
+<a><img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" /></a>
+<a>  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" /></a>
+</div>
 
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" />
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" />
+  
+
