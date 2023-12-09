@@ -160,13 +160,13 @@
 
 <p width="100%">&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=devjunayed&show_icons=true&locale=en&theme=dark" alt="devjunayed" /></p>
 
-<diva align="center" style="text-align: center;">
+<div style="text-align: center;">
     <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=react" alt="devjunayed profile details" />
     <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react" alt="devjunayed repos per language" />
     <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" />
     <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" />
     <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" />
-</diva>
+</div>
 
 
 
