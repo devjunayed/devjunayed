@@ -167,3 +167,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" />
 </div>
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react) |
+| --- | --- | --- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8) |
