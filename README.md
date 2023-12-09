@@ -157,6 +157,11 @@
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=react" alt="devjunayed profile details" />
 
+<div>
+  <a> <img align="left" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react" alt="devjunayed repos per language" /></a>
+  <a> <img width="49%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" /></a>
+</div>
+
 <p>
   <img align="left" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react" alt="devjunayed repos per language" />
   <img width="49%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" />
