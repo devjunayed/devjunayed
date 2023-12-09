@@ -51,7 +51,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devjunayed" height="30" width="40" />
 </a> <!--facebook account-->
 </p>
-
+💻
 ## 💻 Technologies that I know
 
 <p align="center">
