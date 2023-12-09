@@ -151,8 +151,9 @@
  </a>  -->
 <br />
 
-<p width="100%"><img align="left" width="100%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjunayed&show_icons=true&layout=compact&locale=en&theme=dark" alt="devjunayed" /></p>
-
+<div align="center">
+<a width="100%"><img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=devjunayed&show_icons=true&layout=compact&locale=en&theme=dark" alt="devjunayed" /></a>
+</div>
 <!-- <p width="100%">&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=devjunayed&show_icons=true&locale=en&theme=dark" alt="devjunayed" /></p> -->
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=react" alt="devjunayed profile details" />
