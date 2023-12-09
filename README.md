@@ -157,10 +157,10 @@
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=react" alt="devjunayed profile details" />
 
-<div style="width: 100%;">
+<p>
   <img align="left" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=react" alt="devjunayed repos per language" />
   <img width="49%" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=react" alt="devjunayed most commit language" />
-</div>
+</p>
 
   <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=react" alt="devjunayed stats" />
   <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=react&utcOffset=8" alt="devjunayed productive time" />
