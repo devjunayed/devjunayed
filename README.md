@@ -177,5 +177,5 @@
 
 
 
-<p width="100%">&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=dark" alt="devjunayed" />
-&nbsp;<img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8" alt="devjunayed" /></p>
+<p width="100%">&nbsp;<img align="center" width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=transparent" alt="devjunayed" />
+&nbsp;<img align="center" width="60%"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8" alt="devjunayed" /></p>
