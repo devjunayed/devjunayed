@@ -160,9 +160,15 @@
 
 <p width="100%">&nbsp;<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=devjunayed&show_icons=true&locale=en&theme=dark" alt="devjunayed" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=dark)
+<p>
+<p width="100%">&nbsp;<img align="center" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devjunayed&theme=dark" alt="devjunayed" /></p>
+<p width="100%">&nbsp;<img align="center" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devjunayed&theme=dark" alt="devjunayed" /></p>
+</p>
+
+
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devjunayed&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devjunayed&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devjunayed&theme=dark&utcOffset=8) 
