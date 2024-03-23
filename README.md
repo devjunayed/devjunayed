@@ -34,7 +34,7 @@
 ## 👀 Current overview
 - 🌱 I’m currently working with **React, Node, Express, Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://devjunayed.com](https://devjunayed.com)
+- 👨‍💻 All of my projects are available at [https://devjunayed.xyz](https://devjunayed.xyz)
 
 - 📫 How to reach me **devjunayed@gmail.com**
 
