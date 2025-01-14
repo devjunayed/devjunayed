@@ -17,6 +17,8 @@
 
 ## 📈 Current stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devjunayed)](https://git.io/streak-stats)
+
 <!-- Streak -->
 <div align="center">
   <a href="https://git.io/streak-stats">
