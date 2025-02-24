@@ -53,6 +53,9 @@
 <a href="https://fb.com/devjunayed" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devjunayed" height="30" width="40" />
 </a> <!--facebook account-->
+  <a href="wa.me/+8801814676613" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="devjunayed" height="30" width="40" />
+</a> <!-- Whatsapp account-->
 </p>
 
 ## 💻 Technologies that I know
