@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Full+Stack+Web+Developer;3%2B+years+of+coding+experience;Always+learning+new+technologies;Love+to+learn">
 </p>
 <!-- A sub heading -->
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh. Currently working with the technologies such as Nextjs, Reactjs, Redux, Mongodb, Expressjs, nodejs. Love to learn technologies over time. worked with other technologies such as bachelorbuddy (flutter application), CMS(Java swing), todoList(tkinter). Looking forward to having an oppotunites where i can grow more.</h3>
 
 ## 📈 Current stats
 
