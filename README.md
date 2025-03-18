@@ -23,11 +23,14 @@
 ## 📈 Current stats
 
 <!-- Streak -->
+<!--
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=devjunayed&theme=dark&hide_border=false" width="50%" alt="GitHub Streak"/>
   </a>
-</div>
+</div> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=devjunayed&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br />
 
