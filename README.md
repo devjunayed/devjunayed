@@ -3,7 +3,6 @@
 
 <!-- Banner gif image -->
 <img src="https://github.com/devjunayed/devjunayed/blob/main/images/banner.png" alt="" width="100%"/>
-
 <!--Greetings -->
 <h1 align="center">Hi 👋, I'm Md. Junayed (devjunayed)</h1>
 
