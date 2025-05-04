@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,redux,nodejs,express,firebase,mongodb,mongoose,prisma,postgressql,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,redux,nodejs,express,firebase,mongodb,mongoose,prisma,postgresql,graphql" />
   </a>
 </p
 
